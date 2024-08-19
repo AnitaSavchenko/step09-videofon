@@ -72,3 +72,26 @@ position: relative;
     text-transform: uppercase;
     margin-bottom: 20px;
 }
+
+
+@media screen and (max-width: 1100px){
+    .text{
+        font-size: 24px;
+    }
+    
+}
+
+
+@media screen and (max-width: 600px){
+    .text{
+        font-size: 16px;
+    }
+    
+}
+
+@media screen and (max-width: 430px){
+    .text{
+        font-size: 10px;
+    }
+    
+}
